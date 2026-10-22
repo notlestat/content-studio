@@ -49,7 +49,7 @@ For video-use's preferred verbatim transcription with diarization:
 
 ```sh
 export ELEVENLABS_API_KEY='your-key'
-studio transcribe rui-fu ai-business-podcast --provider elevenlabs
+studio transcribe example-client ai-business-podcast --provider elevenlabs
 ```
 
 Store secrets in your shell environment or your own local secret manager. Do not

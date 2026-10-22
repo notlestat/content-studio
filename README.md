@@ -1,4 +1,4 @@
-# Corey Kavanagh content studio
+# Content studio
 
 A local Python CLI operated through Codex for transcript review, edit planning, shorts, captions, graphics, and supporting copy. Saved client preferences guide each project. Human review controls editing choices and final delivery.
 

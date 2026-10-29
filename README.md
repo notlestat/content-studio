@@ -27,7 +27,7 @@ Open this repository in Codex and provide the source path, client, deliverables,
 
 Read [the operating guide](content-studio/README.md) for client setup, manual commands, review checkpoints, and output paths. [AGENTS.md](AGENTS.md) defines the operator workflow. Client media and working projects are excluded from Git.
 
-Local Whisper transcription needs no API key; its first run downloads the model. The optional ElevenLabs provider reads `ELEVENLABS_API_KEY` and sends transcription input to that service. Codex performs editorial analysis. Unknown token counts and costs remain unknown in project reports.
+Local Whisper transcription needs no API key. Its first run downloads the model. The optional ElevenLabs provider reads `ELEVENLABS_API_KEY` and sends transcription input to that service. Codex performs editorial analysis. Unknown token counts and costs remain unknown in project reports.
 
 ## Check a change
 

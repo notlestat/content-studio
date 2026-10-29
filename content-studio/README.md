@@ -14,8 +14,8 @@ studio client create 'Example Client'
 studio project create example-client 'AI Business Podcast'
 ```
 
-Edit `clients/example-client/client.yaml` to save the client's preferences. Longform defaults to
-disabled; set `longform.enabled: true` when the client wants a YouTube edit.
+Edit `clients/example-client/client.yaml` to save the client's preferences. Longform is disabled by
+default. Set `longform.enabled: true` when the client wants a YouTube edit.
 `target_duration`, short durations and all timestamps are seconds. Null longform
 target duration means preserve the editorially useful length.
 
